@@ -6,3 +6,7 @@ Application in which the user can learn about the tourist routes of Lublin and a
 
 On second page is is a tool for advanced route planning
 ![image](https://github.com/anniab/Lublin-s-tourist-trails/assets/73132236/fc21003f-b5b6-4d30-9d51-d60bbcc21635)
+
+
+
+I invite you to use it!
